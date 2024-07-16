@@ -7,7 +7,7 @@ export const ErrorCard = () => {
             backButtonHref="/auth/login"
             backButtonLabel="Back to Login"
         >
-
+            <div></div>
         </CardWrapper>
     )
 }
